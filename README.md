@@ -1,5 +1,5 @@
 [![MasterHead](https://i.pinimg.com/originals/fa/da/24/fada241ae1983a5077f951b0e0438b26.gif)](https://lie.rip)
-<h1 align="center">i'm cloak</h1>
+<h1 align="center">hi i'm cloak</h1>
 <h3 align="center">dev @ lie.rip</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cioaks&label=Profile%20views&color=0e75b6&style=flat" alt="cioaks" /> </p>
