@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cioaks&label=Profile%20views&color=0e75b6&style=flat" alt="cioaks" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cioaks" alt="cioaks" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fabpot" alt="fabpot" /></a> </p>
 
 - dev @ [lie.rip](https://lie.rip/)
 
