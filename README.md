@@ -5,12 +5,6 @@
 <h1 align="center">i'm cloak</h1>
 
 <p align="center">
-  <a href="https://github.com/cIoaks">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0E75B6&center=true&vCenter=true&width=460&lines=writing+C+%26+C%2B%2B;designing+in+photoshop;probably+debugging+something+rn" alt="typing intro" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=cioaks&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
